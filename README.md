@@ -104,3 +104,5 @@ I'm **Bhavin Thakur** (@bhavinthakur29) — full-time **Data Science** student i
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+<sub>© Bhavin Thakur. This profile README and its layout are personal — please do not copy or reuse without permission.</sub>
