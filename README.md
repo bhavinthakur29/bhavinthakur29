@@ -5,21 +5,33 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Bhavin Thakur</h1>
-<h3 align="center">🖊️ writing code · UK</h3>
+<!-- <h3 align="center">🖊️ writing code · UK</h3> -->
 
 <p align="center">
-  <a href="https://github.com/bhavinthakur29">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=bhavinthakur29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavinthakur29&theme=react-dark&hide_border=false&border_radius=12" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavinthakur29/bhavinthakur29/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavinthakur29/bhavinthakur29/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/bhavinthakur29/bhavinthakur29/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+  </picture>
+</p>
+
+---
+
 ## 🚀 About Me
 
-Hi there! I'm **Bhavin Thakur** (@bhavinthakur29), a passionate developer based in the UK.  
-- I enjoy exploring web technologies, building Discord bots, and continuously learning new things.  
-- Currently, I'm working on projects like **GreenDiningUK**, a web application promoting sustainable dining, and **Stingg**, a multi-utility Discord bot.  
-- I'm also diving into the world of **Data Science**, expanding my skills in data analysis, visualization, and machine learning.
+I'm **Bhavin Thakur** (@bhavinthakur29) — full-time **Data Science** student in the UK; I **develop for passion**.  
+- Building web apps, Discord bots (**Trupe**, and more), and data/ML projects in my spare time.  
+- Current focus: **GreenDiningUK** (sustainable dining), **Trupe** (music bot), and data analysis & visualization.
 
 ---
 
@@ -33,7 +45,10 @@ Hi there! I'm **Bhavin Thakur** (@bhavinthakur29), a passionate developer based 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
@@ -44,8 +59,8 @@ Hi there! I'm **Bhavin Thakur** (@bhavinthakur29), a passionate developer based 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavinthakur29&show_icons=true&theme=radical&hide_border=false&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavinthakur29&layout=compact&theme=radical&hide_border=false&border_radius=12" alt="Top Languages" width="340" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bhavinthakur29&show_icons=true&theme=radical&hide_border=false&border_radius=12&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bhavinthakur29&layout=compact&theme=radical&hide_border=false&border_radius=12" alt="Top Languages" width="340" />
 </p>
 
 <p align="center">
@@ -55,30 +70,14 @@ Hi there! I'm **Bhavin Thakur** (@bhavinthakur29), a passionate developer based 
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavinthakur29/github-profile/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavinthakur29/github-profile/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/bhavinthakur29/github-profile/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
-  </picture>
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavinthakur29&theme=react-dark&hide_border=false&border_radius=12" alt="Contribution Graph" />
-</p>
-
----
-
 ## 🌟 Featured Projects
 
-- 🌱 [**GreenDiningUK**](https://github.com/bhavinthakur29/greendininguk): A web application promoting sustainable dining choices in the UK.
-- 🎮 [**Stingg-Discord**](https://github.com/bhavinthakur29/Stingg-discord): A multi-utility and moderation bot for Discord.  
+- 📊 [**CLV Prediction**](https://github.com/bhavinthakur29/clvprediction): Customer Lifetime Value prediction using statistical (BG/NBD, Gamma-Gamma) and ML (Random Forest) models.
+- 🌱 [**GreenDiningUK**](https://github.com/bhavinthakur29/greendininguk): Web app promoting sustainable dining choices in the UK.
+- 🎬 [**Chahat Creates**](https://github.com/bhavinthakur29/chahatcreates): Portfolio website for video editor Chahat Sharma.
+- 🎵 [**Trupe**](https://github.com/bhavinthakur29/trupe-music-discord): Discord music bot I actively maintain and develop.
+- 🥋 [**GAMA JK**](https://github.com/bhavinthakur29/gamajk): Attendance and record-keeping site for Ganesha Academy of Martial Arts.
+- ✨ [**Portfolio**](https://github.com/bhavinthakur29/Portfolio): My personal portfolio site.  
 
 ---
 
@@ -96,6 +95,9 @@ Hi there! I'm **Bhavin Thakur** (@bhavinthakur29), a passionate developer based 
   </a>
   <a href="https://instagram.com/bhavinthakur29">
     <img src="https://img.shields.io/badge/Instagram-@bhavinthakur29-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/64QNjfQSQE">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
