@@ -1,16 +1,16 @@
-<h1 align="center">Hi there 👋, Photron here</h1>
-<!-- <h3 align="center">A passionate developer from London, UK</h3>
+<h1 align="center">Hi there 👋, I'm Bhavin Thakur</h1>
+<h3 align="center">🖊️ writing code · UK</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=photron29&label=Profile%20views&color=0e75b6&style=flat" alt="photron29" /> 
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhavinthakur29&label=Profile%20views&color=0e75b6&style=flat" alt="bhavinthakur29" /> 
 </p>
 -->
 
 ## 🚀 About Me
 
-Hi there! You can call me **Photron**, a passionate developer based in London.  
+Hi there! I'm **Bhavin Thakur** (@bhavinthakur29), a passionate developer based in the UK.  
 - I enjoy exploring web technologies, building Discord bots, and continuously learning new things.  
-- Currently, I'm working on projects like **GreenDiningUK**, a web application promoting sustainable dining and **Stingg**, a multi-utility Discord bot, .  
+- Currently, I'm working on projects like **GreenDiningUK**, a web application promoting sustainable dining, and **Stingg**, a multi-utility Discord bot.  
 - I'm also diving into the world of **Data Science**, expanding my skills in data analysis, visualization, and machine learning.
 
 ---
@@ -36,8 +36,8 @@ Hi there! You can call me **Photron**, a passionate developer based in London.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=photron29&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=photron29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavinthakur29&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavinthakur29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -45,23 +45,23 @@ Hi there! You can call me **Photron**, a passionate developer based in London.
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=photron29&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavinthakur29&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-- 🌱 [**GreenDiningUK**](https://github.com/photron29/greendininguk): A web application promoting sustainable dining choices in the UK.
-- 🎮 [**Stingg-Discord**](https://github.com/photron29/Stingg-discord): A multi-utility and moderation bot for Discord.  
+- 🌱 [**GreenDiningUK**](https://github.com/bhavinthakur29/greendininguk): A web application promoting sustainable dining choices in the UK.
+- 🎮 [**Stingg-Discord**](https://github.com/bhavinthakur29/Stingg-discord): A multi-utility and moderation bot for Discord.  
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://bhavinthakur.netlify.app">
-    <img src="https://img.shields.io/badge/Website-bhavinthakur.netlify.app-blue?style=for-the-badge" />
+  <a href="https://photron.pages.dev/">
+    <img src="https://img.shields.io/badge/Website-photron.pages.dev-blue?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/bhavinthakur">
     <img src="https://img.shields.io/badge/LinkedIn-in%2Fbhavinthakur-blue?style=for-the-badge&logo=linkedin" />
