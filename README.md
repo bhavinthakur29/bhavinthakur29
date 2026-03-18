@@ -72,12 +72,12 @@ I'm **Bhavin Thakur** (@bhavinthakur29) — full-time **Data Science** student i
 
 ## 🌟 Featured Projects
 
-- 📊 [**CLV Prediction**](https://github.com/bhavinthakur29/clvprediction): Customer Lifetime Value prediction using statistical (BG/NBD, Gamma-Gamma) and ML (Random Forest) models.
-- 🌱 [**GreenDiningUK**](https://github.com/bhavinthakur29/greendininguk): Web app promoting sustainable dining choices in the UK.
-- 🎬 [**Chahat Creates**](https://github.com/bhavinthakur29/chahatcreates): Portfolio website for video editor Chahat Sharma.
-- 🎵 [**Trupe**](https://github.com/bhavinthakur29/trupe-music-discord): Discord music bot I actively maintain and develop.
-- 🥋 [**GAMA JK**](https://github.com/bhavinthakur29/gamajk): Attendance and record-keeping site for Ganesha Academy of Martial Arts.
-- ✨ [**Portfolio**](https://github.com/bhavinthakur29/Portfolio): My personal portfolio site.  
+- 📊 [**Time Series Modelling**](https://github.com/bhavinthakur29/Time_Series_Modelling): Comprehensive case study and predictive analysis focusing on advanced research topics in data science.
+- 🎯 [**CLV Prediction**](https://github.com/bhavinthakur29/clvprediction): Customer Lifetime Value prediction using statistical (BG/NBD, Gamma-Gamma) and Machine Learning (Random Forest) models.
+- 🧩 [**TekWidgets**](https://github.com/bhavinthakur29/tek-widgets): A dynamic single-shell web app utilizing `fetch` for loading widget pages, featuring category navigation, settings panel, and theme persistence.
+- 🧪 [**Clustering and Fitting**](https://github.com/bhavinthakur29/23079699_Clustering_and_Fitting_ADS1): Data exploration project utilizing clustering and curve fitting techniques to analyze structure in complex datasets.
+- 🥋 [**GAMA JK**](https://github.com/bhavinthakur29/gamajk): Web-based system for maintenance of attendance records for the Ganesha Academy of Martial Arts.
+- 🌱 [**GreenDiningUK**](https://github.com/bhavinthakur29/greendininguk): A specialized platform focused on promoting sustainable and eco-friendly dining choices across the UK.
 
 ---
 
